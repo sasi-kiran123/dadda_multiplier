@@ -40,6 +40,12 @@ Performance-Area Tradeoff: The Dadda multiplier offers a good balance between pe
 Overall, the Dadda multiplier provides a practical solution for efficient multiplication in VLSI designs, offering advantages in terms of area, speed, power consumption, scalability, regularity, and performance-area tradeoff. However, as with any design choice, the selection of the multiplication algorithm depends on the specific requirements of the application and must be carefully evaluated and compared with other options to determine the most suitable approach.
 
 
+### schematic
+
+![image](https://github.com/sasi-kiran123/dadda_multiplier/assets/75782906/f6a24d27-32a6-47bc-9c4d-38fff26b0b62)
 
 
 
+### Layout using Physical Design
+
+![image](https://github.com/sasi-kiran123/dadda_multiplier/assets/75782906/220436d6-3a55-4bbf-820e-6b42e7ee2f2e)
