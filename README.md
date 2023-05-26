@@ -38,3 +38,18 @@ Regularity and Modularity: The Dadda multiplier has a regular structure, which s
 Performance-Area Tradeoff: The Dadda multiplier offers a good balance between performance and area efficiency. It achieves a compact design while maintaining high-speed multiplication capabilities. This makes it suitable for applications where both area and performance are important design considerations.
 
 Overall, the Dadda multiplier provides a practical solution for efficient multiplication in VLSI designs, offering advantages in terms of area, speed, power consumption, scalability, regularity, and performance-area tradeoff. However, as with any design choice, the selection of the multiplication algorithm depends on the specific requirements of the application and must be carefully evaluated and compared with other options to determine the most suitable approach.
+
+
+
+
+
+### schematic
+
+![image](https://github.com/sasi-kiran123/wallace_multiplier/assets/75782906/2f64bea8-183a-4aa3-b6da-3413a7083cee)
+
+
+
+### Layout using Physical Design
+
+![image](https://github.com/sasi-kiran123/wallace_multiplier/assets/75782906/14b079f7-bc50-43f0-a704-d0b11e0256bb)
+
