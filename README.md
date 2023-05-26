@@ -43,13 +43,3 @@ Overall, the Dadda multiplier provides a practical solution for efficient multip
 
 
 
-### schematic
-
-![image](https://github.com/sasi-kiran123/wallace_multiplier/assets/75782906/2f64bea8-183a-4aa3-b6da-3413a7083cee)
-
-
-
-### Layout using Physical Design
-
-![image](https://github.com/sasi-kiran123/wallace_multiplier/assets/75782906/14b079f7-bc50-43f0-a704-d0b11e0256bb)
-
