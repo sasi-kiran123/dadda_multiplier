@@ -1,4 +1,4 @@
-# dadda_multiplier
+# Design of 16-Bit Dadda_multiplier
 
 ## Introduction:
 
